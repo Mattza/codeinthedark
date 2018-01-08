@@ -1,42 +1,28 @@
 .booker {
-    text-align: center;
+  
 }
 
 .booker__trip-container {
-    width: 300px;
-    margin: 0 auto 48px;
+
 }
 
 .booker__trip-field {
-    width: 100%;
-    display: block;
-    padding: 9px 0;
-    position: relative;
+ 
 }
 
 .booker__trip-field-label {
-    position: absolute;
-    font-size: 12px;
-    top: 22px;
-    left: 18px;
+  
 }
 
 .booker__trip-field-select {
-    width: 100%;
-    border-width: 2px;
-    padding: 32px 16px 8px 16px;
+ 
 }
 
 .booker__trip-submit {
-    padding: 8px 16px;
-    margin: 0 auto;
-    display: block;
-    background-color: var(--color-purple);
-    color: #fff;
-    border: 0;
+ 
 }
 
 .booker__more-link {
-    text-align: right;
+   
 }
 

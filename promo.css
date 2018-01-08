@@ -1,22 +1,15 @@
 .promo {
-    padding-top: var(--base-distance);
-    background-color: var(--color-grey-light);
+ 
 }
 
 .promo__container {
-    display: flex;
-    justify-content: space-between;
-    margin: 0 auto;
-    width: 600px;
-    
+ 
 }
 
 .promo__item {
-    display: flex;
-    flex-direction: column;
-    width: 180px;
+   
 }
 
 .promo__item-header {
-    color: var(--color-purple);
+ 
 }
